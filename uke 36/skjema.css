@@ -2,3 +2,16 @@ header {
   height: 100 px;
   background-color: red;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+li a {
+    display: block;
+}
+li {
+  display: inline;
+}
