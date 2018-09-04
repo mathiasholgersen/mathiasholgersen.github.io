@@ -1,13 +1,12 @@
 header {
-  height: 100 px;
+  height: 110%;
+  width: 110%;
   background-color: red;
 }
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 60px;
+    margin: 0 auto;
 }
 
 li {
