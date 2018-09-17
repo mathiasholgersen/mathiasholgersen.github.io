@@ -1,13 +1,14 @@
 header{
-background-color: #978E8C;
+background-color: #120527;
 display: grid;
 grid-template-columns: 1fr 1fr 3fr;
 border: 3px;
 border-style: solid;
-border-color: black;
+border-color: white;
 }
 body{
-  background-color: #C0C0C0;
+  background-image: url("bakgrunn.jpg");
+  color: white;
 }
 body>header>img{
 display: block;
